@@ -1,5 +1,5 @@
 name = "Marvin"
-if name == "Marvin: 
+if name == "Marvin"
    puts 'You will do great things'
 else 
    puts 'I can not see your future'
