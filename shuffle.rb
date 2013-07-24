@@ -25,3 +25,6 @@ def shuffle arr
 end
 
 puts(shuffle([1,2,3,4,5,6,7,8,9,10,11,12,13]))
+
+#I admit starting from chapter 10, I understand only little portion of the concept. 
+#The codes that I push from this point on are totally copied from the solution chapter of the book 
